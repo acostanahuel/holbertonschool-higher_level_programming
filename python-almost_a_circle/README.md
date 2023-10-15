@@ -1,0 +1,2 @@
+ALMOST A CIRCLE.
+Python OOP.
