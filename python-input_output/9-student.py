@@ -19,9 +19,3 @@ class Student():
             return new_dic
         else:
             return self.__dict__
-
-    def reload_from_json(self, json):
-        """ssd"""
-        for i in json:
-            for i in self.__dict__:
-                self.__dict__[i] = json[i]
