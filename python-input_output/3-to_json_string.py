@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""ds"""
+"""jsonstring"""
 import json
 
 
 def to_json_string(my_obj):
-    """sd"""
+    """aaaaaaaaaf"""
     return json.dumps(my_obj)

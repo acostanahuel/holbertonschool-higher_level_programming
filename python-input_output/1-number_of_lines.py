@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""" s """
+""" saaaaaa """
 
 
 def write_file(filename="", text=""):
-    """sds"""
+    """sksadapsdas"""
     with open(filename, "w", encoding="utf-8") as file:
         st = file.write(text)
         file.close()

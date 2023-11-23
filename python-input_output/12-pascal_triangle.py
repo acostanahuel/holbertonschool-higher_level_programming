@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""dd"""
+"""pascal triangle"""
 
 
 def pascal_triangle(n):
-    """fdfd"""
+    """pascal triangle"""
     lst = []
     if n <= 0:
         return lst

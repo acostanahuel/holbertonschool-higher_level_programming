@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""dd"""
+"""class to json"""
 
 
 def class_to_json(obj):
-    """fdfd"""
+    """class to json"""
     return obj.__dict__

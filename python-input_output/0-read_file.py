@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""sdsd"""
+"""sdasdasasd"""
 
 
 def read_file(filename=""):
-    """dsdsd"""
+    """daaaaasdsd"""
     with open(filename, "r") as txt:
         print(txt.read(), end="")

@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""ds"""
+"""daaaaaaaaaaaas"""
 import json
 
 
 def from_json_string(my_str):
-    """sd"""
+    """seeeeeeeeed"""
     return json.loads(my_str)

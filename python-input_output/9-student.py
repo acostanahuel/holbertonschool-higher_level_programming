@@ -1,16 +1,16 @@
 #!/usr/bin/python3
-"""dd"""
+"""studen9"""
 
 
 class Student():
-    """fdfd"""
+    """studentttttt"""
     def __init__(self, first_name, last_name, age):
         self.first_name = first_name
         self.last_name = last_name
         self.age = age
 
     def to_json(self, attrs=None):
-        """fdfd"""
+        """tudeeeeeeent"""
         new_dic = {}
         if attrs is not None:
             for att in attrs:
